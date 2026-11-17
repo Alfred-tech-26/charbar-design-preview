@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none" stroke="#76372b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<defs><pattern id="brick" width="32" height="16" patternUnits="userSpaceOnUse"><path d="M0 0h32M0 8h32M16 0v8M0 8v8M32 8v8" opacity=".25" stroke-width=".8"/></pattern><g id="window"><rect width="56" height="82" fill="#eee2c6" stroke-width="2"/><path d="M28 0v82M0 27h56M0 54h56M-4-4h64M-4 86h64"/><path d="m5 7 13 18m15 9 16 19m-42 9 12 13" opacity=".3"/></g></defs>
+<path d="m55 363 28-223 510-70 135 99-5 232-515 49Z" fill="url(#brick)"/>
+<path d="m83 140 510-70 135 99M80 148 594 79l133 97M71 274l518-46 137 41M68 282l521-47 136 40M61 349l525-25 138 51"/>
+<path d="m593 70-7 338M728 169l-5 232M83 140 65 390M77 168l507-65M75 208l510-58"/>
+<g transform="matrix(.94,-.11,-.02,1,114,213)"><use href="#window"/></g><g transform="matrix(.94,-.11,-.02,1,204,203)"><use href="#window"/></g><g transform="matrix(.94,-.11,-.02,1,294,193)"><use href="#window"/></g><g transform="matrix(.94,-.11,-.02,1,384,183)"><use href="#window"/></g><g transform="matrix(.94,-.11,-.02,1,474,173)"><use href="#window"/></g>
+<g transform="matrix(.7,.48,0,1,613,165)"><use href="#window"/></g><path d="m680 207 23 16v79l-23-15Z"/>
+<path d="m56 328 530-35 152 59-6 18-147-54-532 34Z" fill="#eee2c6"/><path d="m70 347-5 62m112-69-3 76m107-84-1 91m102-100v107m98-111 3 120m94-122 2 93m108-54 1 54"/>
+<path d="m79 352 494-27 1 72-497 40Zm16 8 63-4-1 67-64 5Zm88-6 73-5v66l-74 7Zm97-5 81-5 1 65-82 9Zm105-5 84-5 2 62-86 8Z"/>
+<path d="m487 338 66-3 1 61-67 5Z"/><path d="m489 370 64-3M518 338v59M95 388l61-4m27-1 73-5m24-1 81-5m24-1 84-4" opacity=".5"/>
+<g transform="rotate(-7 333 164)" stroke="none" fill="#76372b"><text x="333" y="163" font-family="Georgia,serif" font-size="31" letter-spacing="4" text-anchor="middle">SIMMONS LIMITED</text><text x="333" y="189" font-family="monospace" font-size="12" letter-spacing="4" text-anchor="middle">BEDS · MATTRESSES · SPRINGS</text></g>
+<text x="333" y="325" stroke="none" fill="#76372b" font-family="Georgia,serif" font-size="25" text-anchor="middle" transform="rotate(-4 333 325)">charbar</text>
+<path d="m42 441 546-32 154 21M45 449l545-29 146 22M37 463l552-30 153 18" opacity=".6"/>
+<path d="M105 114v-60m-7 0h14m-10 4 45-5m-39 0 3 5M597 56V33m-9 0h18M679 133V88m-6 0h14"/>
+<path d="m24 365 15-5m-8 14 13-3M738 380l19 9m-18-20 25 10"/>
+</svg>
